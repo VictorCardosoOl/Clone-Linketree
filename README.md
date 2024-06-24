@@ -15,7 +15,7 @@ This is a NextJS featured starter template containing the Following features an
 This is a modified version of create-next-app with multiple useful features to get started in a flash, to use this run this in terminal
 
 ```bash
-git clone https://github.com/lifeofsoumya/NextJS-featuredStarterTemplate.git my-app
+git clone https://github.com/Victorcardoso-GG23/Clone-Linketree
 ```
 
 Then, enter the directory using:
