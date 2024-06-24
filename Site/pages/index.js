@@ -6,9 +6,7 @@ export default function Home() {
     <>
       <MyHead
         title="Home"
-        description="Welcome to TypeFinance, where we help you to choose the best financing for you"
-        image="https://typefinance.com/typefinance-dp.jpg"
-        url="https://typefinance.com"
+       
       />
 
       <main className="w-full min-h-screen flex flex-col justify-center items-center">
